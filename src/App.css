@@ -1,0 +1,65 @@
+*
+{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+
+
+.list-tutorial
+{
+  width:40%;
+  max-width:500px;
+  height:auto;
+  -webkit-box-shadow: 0px 1px 37px -2px rgba(97,92,97,0.79);
+  -moz-box-shadow: 0px 1px 37px -2px rgba(97,92,97,0.79);
+  box-shadow: 0px 1px 37px -2px rgba(97,92,97,0.79);
+  margin:0px auto;
+  padding-top:10px;
+  padding-bottom:10px;
+  margin: 0 auto;
+}
+
+.list-tutorial ul
+{
+  font-family: Montserrat;
+  text-align:left;
+  color:#84888e;
+  font-size:13px;
+  padding-left:20px;
+  padding-right:20px;
+  list-style-type:none;
+}
+
+.list-tutorial li
+{
+  padding-bottom:8px;
+}
+
+
+button
+{
+  font-family: Montserrat;
+  color:#2364ce;
+  text-align:left;
+  font-size:15px;
+  list-style-type:none;
+  border:none;
+  background-color:white;
+  text-decoration:none;
+  border:0px;
+}
+
+button:hover {
+  text-decoration:underline;
+}
+
+#path-text
+{
+  font-family: Montserrat;
+  text-align:left;
+  font-size:15px;
+  padding-left:20px;
+  padding-right:20px;
+  color:black;
+}
