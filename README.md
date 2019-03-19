@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Gif Demonstration 
 
-![gif](https://imgur.com/39OFCnR)
+![gif](https://media.giphy.com/media/1AisV1wSdvX94K2LH6/giphy.gif)
